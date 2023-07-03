@@ -27,7 +27,24 @@ Um Component Widget para feedback que pode ser utilizado em qualquer site.
 - ESLint + Prettier + EditorConfig;
 - VS Code
 
-## 🚀 **Em constante evolução...**
+## 🚀 Como executar
+
+Clone o projeto e acesse a pasta do mesmo.
+
+```bash
+$ git clone https://github.com/taiuanpagini/NlwReturn.git
+$ cd NlwReturn
+```
+
+Para iniciá-lo, siga os passos abaixo:
+```bash
+# Instalar as dependências
+$ yarn
+
+# Iniciar o projeto
+$ yarn dev
+```
+O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 ---
 
